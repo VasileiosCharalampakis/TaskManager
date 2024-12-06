@@ -29,7 +29,7 @@ A simple task manager to add, categorize, and track tasks with deadlines. Helps 
    - **Completed**: Marks the task as completed.
    - **Delete**: Removes the task from the list.
 
-6. The task list will persist even if you refresh the page, thanks to the use of `localStorage`.
+6. The TaskManager uses the browser's `localStorage` to save your tasks, ensuring they remain even after refreshing the page or reopening the browser.
 
 7. You can toggle between **Light Mode** and **Dark Mode** using the icon at the top right.
 
