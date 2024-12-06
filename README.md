@@ -19,7 +19,7 @@ A simple task manager to add, categorize, and track tasks with deadlines. Helps 
 
 1. Download or clone the repository to your local machine.
    
-2. Open the `index.html` file in your browser.
+2. Open the `TaskHTML.html` file in your browser.
 
 3. Add tasks by entering the task description, selecting a category (Personal, Work, or Other), and optionally choosing a deadline.
 
